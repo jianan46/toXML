@@ -1,0 +1,21 @@
+{
+  "name": "charles-helper",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:serve": "nodemon server/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^2.0.1",
+    "axios": "^1.5.1",
+    "formidable": "^3.5.1",
+    "js2xmlparser": "^5.0.0",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
